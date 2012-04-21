@@ -1,0 +1,12 @@
+<loader version="1.0" >
+<application id="NeredeyimBen">
+<name>Neredeyim</name>
+<description>Hello World location display</description>
+<version>1.0.0.0</version>
+<vendor>Ferhat ATASOY</vendor>
+<fileset Java="1.45">
+<directory></directory>
+<files>NeredeyimBen.cod</files>
+</fileset>
+</application>
+</loader>

@@ -1,0 +1,38 @@
+RIM-COD-SHA1-4: 7c ca 09 f6 38 32 5b 62 c3 b7 30 34 9b 44 6d a5 ea ea 65 40
+RIM-COD-SHA1-3: 4b e5 9e 18 d3 de 4c 39 5b 89 d4 ac 86 6e a2 cc 90 98 f3 fe
+RIM-COD-SHA1-2: 13 bd 00 8a b9 15 6f 06 8e da 1b c1 3c f6 e3 e7 aa fe 71 bf
+RIM-COD-SHA1-1: cd 5f 1d 81 17 15 3e c5 66 2b 49 50 5a 98 5d 9f 8c 2d 3b 02
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 682755
+MIDlet-Name: Neredeyim
+MIDlet-Jar-URL: NeredeyimBen.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Description: Hello World location display
+RIM-COD-URL-7: NeredeyimBen-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bb_web_jse_api,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml_org,net_rim_bbapi_push,net_rim_xml,net_rim_bbapi_browser
+RIM-COD-URL-6: NeredeyimBen-6.cod
+RIM-COD-URL-5: NeredeyimBen-5.cod
+RIM-COD-URL-4: NeredeyimBen-4.cod
+RIM-COD-URL-3: NeredeyimBen-3.cod
+RIM-COD-URL-2: NeredeyimBen-2.cod
+RIM-COD-URL-1: NeredeyimBen-1.cod
+RIM-COD-Size-7: 57988
+RIM-COD-Size-6: 50196
+RIM-COD-Size-5: 54624
+RIM-COD-Size-4: 51564
+RIM-COD-Size-3: 57848
+RIM-COD-Module-Name: NeredeyimBen
+RIM-COD-Size-2: 54260
+RIM-COD-Size-1: 35340
+RIM-COD-SHA1: 7c 25 8d a1 0c 50 7e aa 55 d6 4e 0f e2 30 f1 16 ba 04 f7 0c
+RIM-COD-Size: 64596
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Ferhat ATASOY
+MIDlet-1: Neredeyim,images/icon.png,rim:foreground;WIDGET;
+RIM-COD-URL: NeredeyimBen.cod
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0.0
+RIM-COD-SHA1-7: 71 d5 87 0f 2d 45 63 86 6f 8a 52 9a 63 9d b6 76 9f 7c 49 93
+RIM-COD-Creation-Time: 1334996515
+RIM-COD-SHA1-6: ac 1d 51 6a 21 85 2c bc ca 53 6e 8a 1b 8b 27 ef 2b 05 ed cb
+RIM-COD-SHA1-5: 57 a5 1f cb 75 a4 aa d5 cf 75 ec 51 de 1c d3 c4 1d f4 80 07
